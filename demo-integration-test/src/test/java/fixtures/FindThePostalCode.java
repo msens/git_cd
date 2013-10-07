@@ -1,4 +1,4 @@
-package java.fixtures;
+package fixtures;
 
 /**
  * Created with IntelliJ IDEA.
