@@ -16,7 +16,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381327283039" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381326706193" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381329741603" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381322303742" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -30,7 +30,7 @@
     <file path="/a.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311512159" ignored="false" />
     <file path="/dummy.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311512159" ignored="false" />
     <file path="/createtable.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311652978" ignored="false" />
-    <file path="/dbtest.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381329331440" ignored="false" />
+    <file path="/dbtest.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381331360038" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <file leaf-file-name="dbtest.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/dbtest.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="43" selection-start="445" selection-end="445" vertical-scroll-proportion="0.281602">
+            <state line="27" column="35" selection-start="536" selection-end="536" vertical-scroll-proportion="0.5068836">
               <folding />
             </state>
           </provider>
@@ -131,18 +131,6 @@
           </provider>
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.test" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/test..test">
-          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -254,6 +242,64 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: taglibs:standard:1.1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="standard-1.1.2.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: taglibs:standard:1.1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="standard-1.1.2.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: javax.servlet:jstl:1.1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstl-1.1.2.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -951,7 +997,15 @@
       <created>1381326714731</created>
       <updated>1381326714732</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="new test, MANIFEST INCLUDED">
+      <created>1381329455414</created>
+      <updated>1381329455415</updated>
+    </task>
+    <task id="LOCAL-00070" summary="new test, MANIFEST INCLUDED">
+      <created>1381329743407</created>
+      <updated>1381329743407</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -994,11 +1048,11 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24752475" sideWeight="0.51116335" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07520564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24752475" sideWeight="0.51116335" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24752475" sideWeight="0.26439482" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15284653" sideWeight="0.68742657" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24752475" sideWeight="0.48883668" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24752475" sideWeight="0.7356052" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32534248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1107,20 +1161,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="24" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="45" selection-start="922" selection-end="922" vertical-scroll-proportion="0.83482945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/test..testtabel">
       <provider editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
         <state />
@@ -1184,23 +1224,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="102" column="0" selection-start="3173" selection-end="3173" vertical-scroll-proportion="1.8590523">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="67" selection-start="1917" selection-end="1917" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1233,9 +1259,37 @@
         <state />
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/taglibs/standard/1.1.2/standard-1.1.2.jar!/META-INF/c.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="67" selection-start="1917" selection-end="1917" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/taglibs/standard/1.1.2/standard-1.1.2.jar!/META-INF/sql.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="2" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.9814815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/dbtest.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="445" selection-end="445" vertical-scroll-proportion="0.281602">
+        <state line="27" column="35" selection-start="536" selection-end="536" vertical-scroll-proportion="0.5068836">
           <folding />
         </state>
       </provider>
