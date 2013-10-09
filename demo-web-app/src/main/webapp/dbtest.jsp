@@ -13,7 +13,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <sql:query var="rs" dataSource="jdbc/MySQLTest">
-    select kolom1, kolom2 from test
+    select kolom1, kolom2 from test.test
 </sql:query>
 
 
