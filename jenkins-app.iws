@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="new test, MANIFEST INCLUDED">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCode.java" afterPath="$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java" afterPath="$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-integration-test/demo-integration-test.iml" afterPath="$PROJECT_DIR$/demo-integration-test/demo-integration-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
+    <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -19,7 +17,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553506657" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381149635202" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381228017448" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380873042482" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -29,6 +27,7 @@
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
     <file path="/PersonServiceTestJUnit.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380812398600" ignored="false" />
     <file path="/FindTheStreetName.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380874339153" ignored="false" />
+    <file path="/file2.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381306822556" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,26 @@
     <favorites_list name="jenkins-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="file1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="13" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file2.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -106,8 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo-web-app/src/test/services/PersonServiceTest.java" />
-        <option value="$PROJECT_DIR$/demo-web-app/src/test/java/PersonServiceTest.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/test/java/FindThePostalCode.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/demo/domain/Person.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/demo/domain/Address.java" />
@@ -122,6 +138,8 @@
         <option value="$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java" />
         <option value="$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCode.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
       </list>
     </option>
   </component>
@@ -306,6 +324,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfiles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -939,7 +989,15 @@
       <created>1381149638024</created>
       <updated>1381149638024</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="new test, MANIFEST INCLUDED">
+      <created>1381151049041</created>
+      <updated>1381151049041</updated>
+    </task>
+    <task id="LOCAL-00065" summary="new test, MANIFEST INCLUDED">
+      <created>1381228028297</created>
+      <updated>1381228028297</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1095,16 +1153,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jenkins-app.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="971" column="87" selection-start="50381" selection-end="50398" vertical-scroll-proportion="0.33204633" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/test/java/Junit/PersonServiceJunitTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.2962298" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.2/joda-time-2.2.jar!/org/joda/time/LocalDate.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="19" selection-start="162" selection-end="162" vertical-scroll-proportion="0.14450867" />
@@ -1183,6 +1231,20 @@
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="29" selection-start="65" selection-end="65" vertical-scroll-proportion="0.14071295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
