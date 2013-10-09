@@ -22,13 +22,15 @@
     <title>DB Test</title>
 </head>
 
+
+<body>
+
 <h2>Results</h2>
 
 <c:forEach var="row" items="${rs.rows}">
     Foo ${row.kolom1}<br/>
     Bar ${row.kolom2}<br/>
 </c:forEach>
-<body>
 
 </body>
 </html>
