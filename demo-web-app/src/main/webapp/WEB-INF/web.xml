@@ -3,25 +3,38 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
-    <servlet>
-    <servlet-name>Jersey Web Application</servlet-name>
-    <servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
-    <init-param>
-      <param-name>com.sun.jersey.config.property.packages</param-name>
-      <param-value>demo.resources</param-value>
-    </init-param>
-  </servlet>
 
-  <servlet-mapping>
-    <servlet-name>Jersey Web Application</servlet-name>
-    <url-pattern>/rest/*</url-pattern>
-  </servlet-mapping>
+  <display-name>Archetype Created Web Application</display-name>
+
+    <servlet>
+      <servlet-name>Jersey Web Application</servlet-name>
+      <servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+      <init-param>
+        <param-name>com.sun.jersey.config.property.packages</param-name>
+        <param-value>demo.resources</param-value>
+      </init-param>
+    </servlet>
+
+    <servlet>
+        <servlet-name>TestJndiServlet</servlet-name>
+        <display-name>TestJNDIServlet</display-name>
+        <servlet-class>testservlets.TestJndiServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TestJndiServlet</servlet-name>
+        <url-pattern>/testJndi</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet-mapping>
+        <servlet-name>Jersey Web Application</servlet-name>
+        <url-pattern>/rest/*</url-pattern>
+    </servlet-mapping>
 
     <resource-ref>
         <res-ref-name>jdbc/MySQLTest</res-ref-name>
         <res-type>javax.sql.DataSource</res-type>
         <res-auth>Container</res-auth>
     </resource-ref>
-    
+
 </web-app>

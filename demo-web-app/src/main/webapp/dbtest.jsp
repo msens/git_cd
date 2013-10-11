@@ -27,11 +27,8 @@
 <h2>Results</h2>
 
 <c:forEach var="row" items="${rs.rows}">
-
-    <c:out value="${row.kolom1}"/>
-    <c:out value="${row.kolom2}"/>
-
-
+    Foo ${row.kolom1}<br/>
+    Bar ${row.kolom2}<br/>
 </c:forEach>
 
 </body>
