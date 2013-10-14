@@ -43,6 +43,9 @@ public class TestJndiServlet extends javax.servlet.http.HttpServlet {
         PrintWriter out = response.getWriter();
         out.println("TestJndiServlet says hi");
         out.println("<br/>");
+        out.println("<br/>");
+        out.println("Below the contents of the database:");
+
         out.println(testJndiDataSource());
     }
 

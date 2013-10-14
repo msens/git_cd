@@ -31,6 +31,7 @@
             <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2" />
             <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.2" />
             <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-xc:1.9.2" />
+            <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
             <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
             <element id="library" level="project" name="Maven: javax.servlet:jstl:1.1.2" />
           </element>
@@ -485,6 +486,17 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/jstl/1.1.2/jstl-1.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: javax.servlet:servlet-api:2.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: javax.xml.bind:jaxb-api:2.2.2">
