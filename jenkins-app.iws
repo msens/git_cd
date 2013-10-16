@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -15,7 +21,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381915953678" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381929215588" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381322303742" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -57,10 +63,11 @@
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/hst-cms-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/template-composer-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381919416511" ignored="false" />
-    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381915905922" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381929536176" ignored="false" />
+    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381930553407" ignored="false" />
     <file path="/file6.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913721073" ignored="false" />
     <file path="/file5.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913729225" ignored="false" />
+    <file path="/file9.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381929203579" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,17 +132,7 @@
     <favorites_list name="jenkins-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="file1.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="78" selection-start="55" selection-end="78" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -153,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo-web-app/sql/insert_row2.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/4-insert-row4.sql" />
         <option value="db-console:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/02-insert-row2-rollback.sql" />
@@ -163,6 +159,7 @@
         <option value="$PROJECT_DIR$/demo-web-app/sql/05-insert-row5-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file1.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file2.php" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" />
@@ -448,6 +445,28 @@
               <option name="myItemId" value="phpfiles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dirwithmanyfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -492,6 +511,7 @@
       <recent name="demo.fixtures" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-php-files/phpfiles/3.0" />
       <recent name="$PROJECT_DIR$/demo-web-app/sql" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
@@ -1036,7 +1056,15 @@
       <created>1381915959148</created>
       <updated>1381915959148</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="new test, MANIFEST INCLUDED">
+      <created>1381921228969</created>
+      <updated>1381921228969</updated>
+    </task>
+    <task id="LOCAL-00085" summary="new test, MANIFEST INCLUDED">
+      <created>1381929219466</created>
+      <updated>1381929219466</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1243,41 +1271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="78" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="78" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="78" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="77" selection-start="146" selection-end="146" vertical-scroll-proportion="0.055350553">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="86" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="22" selection-start="1085" selection-end="1099" vertical-scroll-proportion="0.6699029">
@@ -1294,9 +1287,51 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.055350553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="78" selection-start="130" selection-end="130" vertical-scroll-proportion="0.055350553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="59" selection-start="130" selection-end="130" vertical-scroll-proportion="0.055350553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="68" selection-start="122" selection-end="122" vertical-scroll-proportion="0.055350553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="38" selection-start="122" selection-end="122" vertical-scroll-proportion="0.055350553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="78" selection-start="55" selection-end="78" vertical-scroll-proportion="0.0">
+        <state line="0" column="62" selection-start="55" selection-end="62" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
