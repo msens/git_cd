@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/dirwithmanyfiles/file3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/dirwithmanyfiles/file4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/dirwithmanyfiles/file5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/dirwithmanyfiles/file6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/dirwithmanyfiles/file3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/dirwithmanyfiles/file4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/dirwithmanyfiles/file5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/dirwithmanyfiles/file6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/file1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/2.0/file2.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" />
@@ -35,7 +21,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381908552492" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913998265" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381322303742" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -77,8 +63,8 @@
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/hst-cms-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/template-composer-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913785278" ignored="false" />
-    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913435846" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381915882873" ignored="false" />
+    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381915905922" ignored="false" />
     <file path="/file6.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913721073" ignored="false" />
     <file path="/file5.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913729225" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -145,17 +131,7 @@
     <favorites_list name="jenkins-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="file1.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.055350553">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -187,8 +163,8 @@
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php" />
-        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" />
       </list>
     </option>
   </component>
@@ -250,14 +226,8 @@
               <option name="myItemId" value="jenkins-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="jenkins-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo-web-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,11 +237,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemId" value="jenkins-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="demo-php-files.phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-php-files.phpfiles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,13 +272,15 @@
               <option name="myItemId" value="demo-web-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+              <option name="myItemId" value="demo-integration-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -301,6 +291,70 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="jenkins-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dirwithmanyfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -882,7 +936,11 @@
       <created>1381823781447</created>
       <updated>1381823781447</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="new test, MANIFEST INCLUDED">
+      <created>1381914002860</created>
+      <updated>1381914002860</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1089,44 +1147,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="78" selection-start="55" selection-end="78" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+        <state line="0" column="78" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="58" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+        <state line="0" column="78" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="58" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="146" selection-end="146" vertical-scroll-proportion="0.055350553">
+        <state line="0" column="78" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="59" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+        <state line="2" column="77" selection-start="146" selection-end="146" vertical-scroll-proportion="0.055350553">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.055350553">
+        <state line="0" column="86" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
