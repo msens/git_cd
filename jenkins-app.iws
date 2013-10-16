@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt" afterPath="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -15,7 +21,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381930619399" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381931216458" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381322303742" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -25,7 +31,7 @@
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
     <file path="/PersonServiceTestJUnit.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380812398600" ignored="false" />
     <file path="/FindTheStreetName.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380874339153" ignored="false" />
-    <file path="/file2.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381309410623" ignored="false" />
+    <file path="/file2.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932112951" ignored="false" />
     <file path="/a.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311512159" ignored="false" />
     <file path="/dummy.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311512159" ignored="false" />
     <file path="/createtable.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381311652978" ignored="false" />
@@ -57,11 +63,14 @@
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/hst-cms-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/site/src/main/resources/META-INF/hst-assembly/overrides/template-composer-rest.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381828707463" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381931009214" ignored="false" />
-    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381930553407" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../EXTERNAL/Ziggo/2013/code/ziggo-cms/.idea/workspace.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932492952" ignored="false" />
+    <file path="/file1.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932102015" ignored="false" />
     <file path="/file6.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913721073" ignored="false" />
     <file path="/file5.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381913729225" ignored="false" />
-    <file path="/file9.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381929203579" ignored="false" />
+    <file path="/file9.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932237021" ignored="false" />
+    <file path="/configfile.ini" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932249716" ignored="false" />
+    <file path="/file3.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932187702" ignored="false" />
+    <file path="/file4.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932202629" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +135,17 @@
     <favorites_list name="jenkins-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="configfile.ini" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="24" selection-start="207" selection-end="207" vertical-scroll-proportion="0.19372694">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -144,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo-web-app/sql/4-insert-row4.sql" />
         <option value="db-console:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/02-insert-row2-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/01-insert-row-rollback.sql" />
@@ -153,13 +171,14 @@
         <option value="$PROJECT_DIR$/demo-web-app/sql/05-insert-row5-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file1.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file2.php" />
-        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php" />
-        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" />
-        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt" />
+        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini" />
       </list>
     </option>
   </component>
@@ -1062,7 +1081,11 @@
       <created>1381930622326</created>
       <updated>1381930622326</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="new test, MANIFEST INCLUDED">
+      <created>1381931219535</created>
+      <updated>1381931219535</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1285,27 +1308,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.055350553">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="68" selection-start="122" selection-end="122" vertical-scroll-proportion="0.055350553">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="62" selection-start="55" selection-end="62" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="78" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
@@ -1320,16 +1322,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="28" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+        <state line="0" column="55" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="24" selection-start="55" selection-end="55" vertical-scroll-proportion="0.08302583">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="21" selection-start="11" selection-end="11" vertical-scroll-proportion="0.027675277">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="122" selection-end="122" vertical-scroll-proportion="0.055350553">
+        <state line="1" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.027675277">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="207" selection-end="207" vertical-scroll-proportion="0.19372694">
           <folding />
         </state>
       </provider>

@@ -1,3 +1,3 @@
 
-probeer dit {{placeholder}}
+placeholder waarde in een text file: {{placeholder}}
 
