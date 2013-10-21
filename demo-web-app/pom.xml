@@ -16,7 +16,7 @@
     <profile>
       <id>sonar</id>
       <activation>
-        <activeByDefault>false</activeByDefault>
+        <activeByDefault>true</activeByDefault>
       </activation>
 
 <!--      <properties>
