@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -15,11 +18,11 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382011425574" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382012265945" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381322303742" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
-    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381151034830" ignored="false" />
+    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382339266261" ignored="false" />
     <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380641486530" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
@@ -66,6 +69,10 @@
     <file path="/file3.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932187702" ignored="false" />
     <file path="/file4.php" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381932202629" ignored="false" />
     <file path="/PersonServiceJUnitOneTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381994754005" ignored="false" />
+    <file path="/06-insert-row6.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382012246326" ignored="false" />
+    <file path="/06-insert-row6-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382012258838" ignored="false" />
+    <file path="/07-insert-row7.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382339349589" ignored="false" />
+    <file path="/07-insert-row7-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382339360292" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +141,7 @@
       <file leaf-file-name="configfile.ini" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,15 +151,62 @@
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/test/java/Junit/PersonServiceJUnitOneTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="7" selection-start="276" selection-end="291" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file1.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
+      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="21" selection-start="11" selection-end="11" vertical-scroll-proportion="0.018181818">
+            <state line="5" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07-insert-row7.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="69" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07-insert-row7-rollback.sql" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="55" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-insert-row6.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/sql/06-insert-row6.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="74" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-insert-row6-rollback.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/sql/06-insert-row6-rollback.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="66" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,11 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo-web-app/sql/02-insert-row2-rollback.sql" />
-        <option value="$PROJECT_DIR$/demo-web-app/sql/01-insert-row-rollback.sql" />
-        <option value="$PROJECT_DIR$/demo-web-app/sql/03-insert-row3-rollback.sql" />
-        <option value="$PROJECT_DIR$/demo-web-app/sql/04-insert-row4-rollback.sql" />
-        <option value="$PROJECT_DIR$/demo-web-app/sql/05-insert-row5-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file1.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/1.0/file2.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" />
@@ -192,6 +241,11 @@
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file9.txt" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini" />
         <option value="$PROJECT_DIR$/demo-web-app/src/test/java/Junit/PersonServiceJUnitOneTest.java" />
+        <option value="$PROJECT_DIR$/demo-web-app/sql/06-insert-row6.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/sql/06-insert-row6-rollback.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql" />
       </list>
     </option>
   </component>
@@ -261,6 +315,130 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,11 +553,11 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="demo.services" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="demo.services" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="fixtures" />
@@ -387,8 +565,8 @@
       <recent name="demo.fixtures" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/demo-php-files/phpfiles/3.0" />
       <recent name="$PROJECT_DIR$/demo-web-app/sql" />
+      <recent name="$PROJECT_DIR$/demo-php-files/phpfiles/3.0" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="demo.services" />
@@ -952,7 +1130,19 @@
       <created>1381932742131</created>
       <updated>1381932742131</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="new test, MANIFEST INCLUDED">
+      <created>1382011474368</created>
+      <updated>1382011474368</updated>
+    </task>
+    <task id="LOCAL-00090" summary="new test, MANIFEST INCLUDED">
+      <created>1382012218914</created>
+      <updated>1382012218914</updated>
+    </task>
+    <task id="LOCAL-00091" summary="new test, MANIFEST INCLUDED">
+      <created>1382012267661</created>
+      <updated>1382012267661</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -990,6 +1180,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965517" sideWeight="0.4996587" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24206816" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3496034" sideWeight="0.26439482" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07520564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1005,7 +1196,6 @@
       <window_info id="TunnelliJ" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31257343" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24206816" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1109,37 +1299,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/test/java/fixtures/FindThePostalCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="16" selection-start="759" selection-end="759" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/05-insert-row5.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/test..test">
-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="115" selection-start="309" selection-end="330" vertical-scroll-proportion="0.32608697" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="598" selection-end="598" vertical-scroll-proportion="0.501845" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="28" selection-start="1688" selection-end="1688" vertical-scroll-proportion="0.49815497" />
+        <state line="53" column="28" selection-start="1688" selection-end="1688" vertical-scroll-proportion="0.49815497">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/WEB-INF/web.xml">
@@ -1150,7 +1316,9 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="22" selection-start="1085" selection-end="1099" vertical-scroll-proportion="0.6699029" />
+        <state line="34" column="22" selection-start="1085" selection-end="1099" vertical-scroll-proportion="0.6699029">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
@@ -1188,7 +1356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+        <state line="7" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1196,13 +1364,50 @@
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/test/java/Junit/PersonServiceJUnitOneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="7" selection-start="276" selection-end="291" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="11" selection-end="11" vertical-scroll-proportion="0.018181818">
+        <state line="1" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/06-insert-row6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="74" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/06-insert-row6-rollback.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="66" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="69" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="55" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0375">
           <folding />
         </state>
       </provider>
