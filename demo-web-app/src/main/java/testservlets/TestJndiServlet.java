@@ -41,12 +41,15 @@ public class TestJndiServlet extends javax.servlet.http.HttpServlet {
                              HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
+        out.println("<html><body>");
         out.println("TestJndiServlet says hi");
         out.println("<br/>");
         out.println("<br/>");
         out.println("Below the contents of the database:");
 
         out.println(testJndiDataSource());
+        out.println("</body></html>");
+
     }
 
     public String testJndiDataSource() {
