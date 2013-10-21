@@ -48,6 +48,7 @@ public class TestJndiServlet extends javax.servlet.http.HttpServlet {
         out.println("Below the contents of the database:");
 
         out.println(testJndiDataSource());
+
         out.println("</body></html>");
 
     }
@@ -70,13 +71,31 @@ public class TestJndiServlet extends javax.servlet.http.HttpServlet {
             st = conn.createStatement();
             rs = st.executeQuery("SELECT * FROM test.test");
 
+            sb.append("<table border=\"1\">");
+            sb.append("<tr>");
+            sb.append("<th>Waarde in kolom 1</th>");
+            sb.append("<th>Waarde in kolom 2</th>");
+            sb.append("</tr>");
+
             while (rs.next()) {
+                sb.append("<tr>");
+
                 String kolom1 = rs.getString("kolom1");
                 String kolom2 = rs.getString("kolom2");
 
-                sb.append("kolom1: " + kolom1 + ", kolom2: " + kolom2
-                         + "<br/>");
+                // concatenation in the append is on purpose to see whether Sonar will trigger a report on this.
+                sb.append("<td>" + kolom1 + "</td>");
+                sb.append("<td>" + kolom2 + "</td>");
+
+                sb.append("</tr>");
+
+                // sb.append("kolom1: " + kolom1 + ", kolom2: " + kolom2
+               //          + "<br/>");
             }
+
+            sb.append("</table>");
+
+
         } catch (Exception ex) {
             ex.printStackTrace();
         } finally {
