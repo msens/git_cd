@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java" afterPath="$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" afterPath="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -13,10 +13,10 @@
     <file path="/fragment.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381323940476" ignored="false" />
     <file path="/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381333072288" ignored="false" />
     <file path="/PersonResource.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368048019314" ignored="false" />
-    <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380713462854" ignored="false" />
+    <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382365547944" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382366597403" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382365535407" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -145,13 +145,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestJndiServlet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestJndiServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="0" selection-start="2447" selection-end="2447" vertical-scroll-proportion="0.4209559">
+            <state line="59" column="31" selection-start="1796" selection-end="1842" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1382366596000" expanded="true" signature="2288:2311" placeholder="SELECT * FRO..test..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonService.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="26" selection-start="612" selection-end="612" vertical-scroll-proportion="0.4847397">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -174,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file5.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/file6.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file1.php" />
         <option value="$PROJECT_DIR$/demo-php-files/phpfiles/3.0/file2.php" />
@@ -190,6 +198,7 @@
         <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCodeBOGUS.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" />
       </list>
     </option>
   </component>
@@ -340,12 +349,42 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testservlets" />
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TestJndiServlet" />
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PersonService" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,6 +411,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1133,7 +1176,11 @@
       <created>1382365554567</created>
       <updated>1382365554568</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="new test, MANIFEST INCLUDED">
+      <created>1382366603874</created>
+      <updated>1382366603874</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1290,13 +1337,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-php-files/phpfiles/3.0/dirwithmanyfiles/configfile.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.13125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="55" selection-start="69" selection-end="69" vertical-scroll-proportion="0.036452007">
@@ -1401,10 +1441,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="0" selection-start="2447" selection-end="2447" vertical-scroll-proportion="0.4209559">
+        <state line="59" column="31" selection-start="1796" selection-end="1842" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1382366596000" expanded="true" signature="2288:2311" placeholder="SELECT * FRO..test..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="612" selection-end="612" vertical-scroll-proportion="0.4847397">
+          <folding />
         </state>
       </provider>
     </entry>
