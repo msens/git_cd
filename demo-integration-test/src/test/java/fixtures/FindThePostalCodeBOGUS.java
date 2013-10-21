@@ -7,7 +7,7 @@ package fixtures;
  * Time: 17:22
  * To change this template use File | Settings | File Templates.
  */
-public class FindThePostalCode {
+public class FindThePostalCodeBOGUS {
     private String firstName;
     private String lastName;
     private String postalCode;
@@ -24,7 +24,7 @@ public class FindThePostalCode {
 
     public void execute() { // executed after each table row
         this.postalCode = "1234wq";
-        //      this.postalCode = new FindThePostalCode().find(this.firstName, this.lastName);
+        //      this.postalCode = new FindThePostalCodeBOGUS().find(this.firstName, this.lastName);
     }
 
     //returns value to fitnesse, into column postalcode? (with questionmark)

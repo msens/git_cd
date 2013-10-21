@@ -87,5 +87,4 @@ public class TestJndiServlet extends javax.servlet.http.HttpServlet {
         return sb.toString();
     }
 
-
 }
