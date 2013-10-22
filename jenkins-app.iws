@@ -3,13 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/pom.xml" afterPath="$PROJECT_DIR$/demo-web-app/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sonar-project.properties" afterPath="$PROJECT_DIR$/sonar-project.properties" />
     </list>
     <ignored path="jenkins-app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Demo.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368043641613" ignored="false" />
-    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368571113" ignored="false" />
+    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368683703" ignored="false" />
     <file path="/Address.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368042496964" ignored="false" />
     <file path="/fragment.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381323940476" ignored="false" />
     <file path="/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381333072288" ignored="false" />
@@ -17,12 +17,12 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367869866" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368596444" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368475426" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
     <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382343889298" ignored="false" />
-    <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367674617" ignored="false" />
+    <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424207821" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
     <file path="/PersonServiceTestJUnit.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380812398600" ignored="false" />
@@ -137,19 +137,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sonar-project.properties" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="sonar-project.properties" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sonar-project.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
+            <state line="22" column="47" selection-start="702" selection-end="702" vertical-scroll-proportion="0.5924596">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="29" selection-start="611" selection-end="615" vertical-scroll-proportion="0.4847397">
+            <state line="22" column="36" selection-start="715" selection-end="715" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,9 +206,9 @@
         <option value="$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCodeBOGUS.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" />
-        <option value="$PROJECT_DIR$/sonar-project.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
+        <option value="$PROJECT_DIR$/sonar-project.properties" />
       </list>
     </option>
   </component>
@@ -292,6 +292,134 @@
             <PATH_ELEMENT>
               <option name="myItemId" value=".sonar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-integration-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-integration-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PersonIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1020,7 +1148,11 @@
       <created>1382367873787</created>
       <updated>1382367873787</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="new test, MANIFEST INCLUDED">
+      <created>1382368599175</created>
+      <updated>1382368599175</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1281,16 +1413,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
+        <state line="22" column="36" selection-start="715" selection-end="715" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
+    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="29" selection-start="611" selection-end="615" vertical-scroll-proportion="0.4847397">
+        <state line="22" column="47" selection-start="702" selection-end="702" vertical-scroll-proportion="0.5924596">
           <folding />
         </state>
       </provider>
