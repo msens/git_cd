@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/sql/09-insert-row9.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
@@ -18,11 +16,11 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424570799" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452554597" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368475426" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
-    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452473014" ignored="false" />
+    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382516992110" ignored="false" />
     <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424207821" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
@@ -147,34 +145,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="85" column="76" selection-start="2790" selection-end="2790" vertical-scroll-proportion="0.0">
               <folding>
+                <element signature="imports" expanded="false" />
                 <marker date="1382366596000" expanded="true" signature="2288:2311" placeholder="SELECT * FRO..test..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="50" selection-end="50" vertical-scroll-proportion="-3.125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09-insert-row9.sql" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="77" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09-insert-row9-rollback.sql" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06651885">
+            <state line="2" column="12" selection-start="26" selection-end="26" vertical-scroll-proportion="0.07025761">
               <folding />
             </state>
           </provider>
@@ -211,9 +192,9 @@
         <option value="$PROJECT_DIR$/sonar-project.properties" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/08-insert-row8.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/08-insert-row8-rollback.sql" />
-        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/09-insert-row9.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -1013,7 +994,11 @@
       <created>1382424572538</created>
       <updated>1382424572538</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="new test, MANIFEST INCLUDED">
+      <created>1382452557467</created>
+      <updated>1382452557467</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1251,6 +1236,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="76" selection-start="2790" selection-end="2790" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="imports" expanded="false" />
             <marker date="1382366596000" expanded="true" signature="2288:2311" placeholder="SELECT * FRO..test..." />
           </folding>
         </state>
@@ -1263,23 +1249,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="50" selection-end="50" vertical-scroll-proportion="-3.125">
+        <state line="2" column="29" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06651885">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="77" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+        <state line="1" column="77" selection-start="78" selection-end="78" vertical-scroll-proportion="0.033259425">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06651885">
+        <state line="2" column="12" selection-start="26" selection-end="26" vertical-scroll-proportion="0.07025761">
           <folding />
         </state>
       </provider>
