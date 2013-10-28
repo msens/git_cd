@@ -31,6 +31,7 @@
 
   <build>
     <finalName>demo-web-app</finalName>
+
     <!--    <plugins>
           <plugin>
             <groupId>org.mortbay.jetty</groupId>
