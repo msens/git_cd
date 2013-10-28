@@ -25,6 +25,22 @@
   <!-- http://maven.apache.org/surefire/maven-failsafe-plugin/usage.html -->
   <build>
     <plugins>
+        <plugin>
+            <inherited>true</inherited>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-source-plugin</artifactId>
+            <executions>
+                <execution>
+                    <id>attach-sources</id>
+                    <goals>
+                        <goal>jar</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+
+
+
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-failsafe-plugin</artifactId>
@@ -52,9 +68,9 @@
             <configuration>
               <artifactItems>
                 <artifactItem>
-                  <groupId>jenkins-app</groupId>
-                  <artifactId>demo-web-app</artifactId>
-                  <version>1.0</version>
+                  <groupId>ziggo</groupId>
+                  <artifactId>cd-test-app</artifactId>
+                  <version>1.0.1</version>
                   <type>war</type>
                   <overWrite>true</overWrite>
                 </artifactItem>
