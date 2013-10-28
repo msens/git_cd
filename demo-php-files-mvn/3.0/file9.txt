@@ -1,0 +1,3 @@
+
+placeholder waarde in een text file: {{placeholder}}
+

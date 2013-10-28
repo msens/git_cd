@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/META-INF/MANIFEST.MF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file3.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file3.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file4.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file4.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file5.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file5.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file6.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file6.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file1.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file2.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/configfile.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file1.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file2.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file3.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file4.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file5.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file6.php" afterPath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -22,7 +31,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382963468628" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382963661180" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368475426" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -145,7 +154,53 @@
     <favorites_list name="jenkins-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="36" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="34" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/3.0/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="10" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="18" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -163,13 +218,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo-web-app/sql/06-insert-row6-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-integration-test/src/test/java/fixtures/FindThePostalCodeBOGUS.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/java/testservlets/TestJndiServlet.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" />
-        <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
         <option value="$PROJECT_DIR$/sonar-project.properties" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/08-insert-row8.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/sql/08-insert-row8-rollback.sql" />
@@ -179,6 +232,8 @@
         <option value="$PROJECT_DIR$/demo-php-file/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/demo-php-files-mvn/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-integration-test/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
       </list>
     </option>
   </component>
@@ -355,6 +410,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-php-files-mvn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1145,7 +1218,15 @@
       <created>1382963470888</created>
       <updated>1382963470888</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="new test, MANIFEST INCLUDED">
+      <created>1382963587818</created>
+      <updated>1382963587818</updated>
+    </task>
+    <task id="LOCAL-00111" summary="new test, MANIFEST INCLUDED">
+      <created>1382963664282</created>
+      <updated>1382963664282</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1302,11 +1383,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="60" selection-start="268" selection-end="268" vertical-scroll-proportion="0.22058824" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/sql/08-insert-row8-rollback.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="7" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" />
@@ -1384,37 +1460,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/1.0/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="361" selection-end="361" vertical-scroll-proportion="0.39748955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="6" selection-start="2970" selection-end="2974" vertical-scroll-proportion="0.96022725">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="34" selection-start="341" selection-end="341" vertical-scroll-proportion="0.25104603">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="36" selection-start="715" selection-end="715" vertical-scroll-proportion="0.46875">
+        <state line="5" column="18" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="560" selection-end="560" vertical-scroll-proportion="0.3409091">
+        <state line="17" column="10" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="34" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/3.0/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="361" selection-end="361" vertical-scroll-proportion="0.39748955">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
