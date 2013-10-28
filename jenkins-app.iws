@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.ipr" afterPath="$PROJECT_DIR$/jenkins-app.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-php-files-mvn/demo-php-files-mvn.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="jenkins-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +16,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382951030858" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382963442169" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382368475426" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -1150,7 +1141,11 @@
       <created>1382519414984</created>
       <updated>1382519414985</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="new test, MANIFEST INCLUDED">
+      <created>1382963448157</created>
+      <updated>1382963448158</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
