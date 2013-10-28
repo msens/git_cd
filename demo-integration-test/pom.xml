@@ -75,7 +75,8 @@
 
                     <groupId>jenkins-app</groupId>
                     <artifactId>demo-web-app</artifactId>
-                    <version>1.0</version>
+                 <!--   <version>1.0</version>     -->
+                    <version>1.0.1</version>
                     <type>war</type>
                     <overWrite>true</overWrite>
 <!--
