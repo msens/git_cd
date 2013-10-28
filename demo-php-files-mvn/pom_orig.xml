@@ -2,21 +2,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 
+
+    <parent>
+     <groupId>jenkins-app</groupId>
+     <artifactId>project</artifactId>
+     <version>1.0.1</version>
+   </parent>
+
+
     <!--
-       <parent>
-        <groupId>jenkins-app</groupId>
-        <artifactId>project</artifactId>
+    <parent>
+        <groupId>ziggo</groupId>
+        <artifactId>cd-test-app</artifactId>
         <version>1.0.1</version>
-      </parent>
-   -->
-
-
-       <parent>
-           <groupId>ziggo</groupId>
-           <artifactId>cd-test-app</artifactId>
-           <version>1.0.1</version>
-       </parent>
-
+    </parent>
+    -->
 
 
     <modelVersion>4.0.0</modelVersion>

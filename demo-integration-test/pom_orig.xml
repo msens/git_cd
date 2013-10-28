@@ -1,20 +1,19 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-
-    <!--
     <parent>
      <groupId>jenkins-app</groupId>
      <artifactId>project</artifactId>
      <version>1.0.1</version>
-    </parent>
-    -->
-
-   <parent>
-       <groupId>ziggo</groupId>
-       <artifactId>cd-test-app</artifactId>
-       <version>1.0.1</version>
    </parent>
+
+    <!--
+       <parent>
+           <groupId>ziggo</groupId>
+           <artifactId>cd-test-app</artifactId>
+           <version>1.0.1</version>
+       </parent>
+    -->
 
 
      <modelVersion>4.0.0</modelVersion>
@@ -74,20 +73,20 @@
               <artifactItems>
                 <artifactItem>
 
-                    <!--
                     <groupId>jenkins-app</groupId>
                     <artifactId>demo-web-app</artifactId>
+                 <!--   <version>1.0</version>     -->
                     <version>1.0.1</version>
                     <type>war</type>
                     <overWrite>true</overWrite>
-                   -->
-
+<!--
                   <groupId>ziggo</groupId>
-                  <artifactId>demo-web-app</artifactId>
+                  <artifactId>cd-test-app</artifactId>
                   <version>1.0.1</version>
                   <type>war</type>
-                  <overWrite>true</overWrite>
+-->
 
+                  <overWrite>true</overWrite>
                 </artifactItem>
               </artifactItems>
               <outputDirectory>${project.build.directory}/unpack</outputDirectory>
