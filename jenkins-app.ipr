@@ -70,6 +70,8 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="demo-integration-test" />
+        <module name="demo-php-file" />
+        <module name="demo-php-files-mvn" />
         <module name="demo-web-app" />
       </profile>
     </annotationProcessing>
@@ -121,6 +123,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo-php-file/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="Palette2">
@@ -254,6 +261,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-integration-test/demo-integration-test.iml" filepath="$PROJECT_DIR$/demo-integration-test/demo-integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-php-files-mvn/demo-php-files-mvn.iml" filepath="$PROJECT_DIR$/demo-php-files-mvn/demo-php-files-mvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-web-app/demo-web-app.iml" filepath="$PROJECT_DIR$/demo-web-app/demo-web-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jenkins-app.iml" filepath="$PROJECT_DIR$/jenkins-app.iml" />
     </modules>
