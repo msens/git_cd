@@ -2,6 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/01-insert-row-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/01-insert-row.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/02-insert-row2-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/02-insert-row2.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/03-insert-row3-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/03-insert-row3.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/04-insert-row4-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/04-insert-row4.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/05-insert-row5-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/05-insert-row5.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/06-insert-row6-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/06-insert-row6.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/07-insert-row7-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/07-insert-row7.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/08-insert-row8-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/08-insert-row8.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/09-insert-row9-rollback.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-web-app/src/main/resources/sql/09-insert-row9.sql" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/01-insert-row-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/01-insert-row-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/01-insert-row.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/01-insert-row.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/02-insert-row2-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/02-insert-row2-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/02-insert-row2.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/02-insert-row2.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/03-insert-row3-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/03-insert-row3-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/03-insert-row3.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/03-insert-row3.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/04-insert-row4-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/04-insert-row4-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/04-insert-row4.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/04-insert-row4.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/05-insert-row5-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/05-insert-row5-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/05-insert-row5.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/05-insert-row5.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/06-insert-row6-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/06-insert-row6-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/06-insert-row6.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/06-insert-row6.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/07-insert-row7-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/07-insert-row7.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/08-insert-row8-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/08-insert-row8-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/08-insert-row8.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/08-insert-row8.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo-web-app/sql/09-insert-row9.sql" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -15,7 +51,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382970051257" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382970219928" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382969486499" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -140,7 +176,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="01-insert-row.sql" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/resources/sql/01-insert-row.sql">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/01-insert-row.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -355,36 +391,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jenkins-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="git_cd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo-web-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -466,7 +472,7 @@
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql_datasource" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-web-app/src/main/scripts" />
     <property name="project.structure.side.proportion" value="0.21321794" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="Database.TableEditor.Splitter" value="0.7196871" />
@@ -503,6 +509,7 @@
       <recent name="demo.services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-web-app/src/main/scripts" />
       <recent name="$PROJECT_DIR$/demo-web-app/src/test/java/demo" />
       <recent name="$PROJECT_DIR$/demo-web-app/src/test/java" />
       <recent name="$PROJECT_DIR$/demo-integration-test/src/test/java" />
@@ -1177,7 +1184,11 @@
       <created>1382970054324</created>
       <updated>1382970054325</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="new test, MANIFEST INCLUDED">
+      <created>1382970222025</created>
+      <updated>1382970222026</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1334,26 +1345,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/07-insert-row7.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="78" selection-end="78" vertical-scroll-proportion="0.053859964" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/08-insert-row8.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="75" selection-start="76" selection-end="76" vertical-scroll-proportion="0.033259425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9-rollback.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="73" selection-end="73" vertical-scroll-proportion="0.06651885" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/sql/09-insert-row9.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="77" selection-start="78" selection-end="78" vertical-scroll-proportion="0.033259425" />
-      </provider>
-    </entry>
     <entry file="uml://JAVA/demo-php-files.phpfiles">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1448,7 +1439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/resources/sql/01-insert-row.sql">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/01-insert-row.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />

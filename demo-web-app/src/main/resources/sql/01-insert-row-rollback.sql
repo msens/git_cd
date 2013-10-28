@@ -1,1 +1,0 @@
-DELETE FROM test.test WHERE kolom1 = 'elf' AND kolom2 = 'elf';
