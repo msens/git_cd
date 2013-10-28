@@ -71,10 +71,19 @@
             <configuration>
               <artifactItems>
                 <artifactItem>
+
+                    <groupId>jenkins-app</groupId>
+                    <artifactId>demo-web-app</artifactId>
+                    <version>1.0</version>
+                    <type>war</type>
+                    <overWrite>true</overWrite>
+<!--
                   <groupId>ziggo</groupId>
                   <artifactId>cd-test-app</artifactId>
                   <version>1.0.1</version>
                   <type>war</type>
+-->
+
                   <overWrite>true</overWrite>
                 </artifactItem>
               </artifactItems>
