@@ -1,12 +1,6 @@
 <project>
-    <modelVersion>4.0.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
 
-    <!--
-
-  <groupId>jenkins-app</groupId>
-  <artifactId>project</artifactId>
-  <version>1.0.1</version>
-   -->
 
   <groupId>ziggo</groupId>
   <artifactId>cd-test-app</artifactId>

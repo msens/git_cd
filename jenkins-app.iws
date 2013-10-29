@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/dirwithmanyfiles/file6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/1.0/file2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/configfile.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/dirwithmanyfiles/file6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-php-files-mvn/3.0/file9.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-integration-test/pom.xml" afterPath="$PROJECT_DIR$/demo-integration-test/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-php-files-mvn/pom.xml" afterPath="$PROJECT_DIR$/demo-php-files-mvn/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/pom.xml" afterPath="$PROJECT_DIR$/demo-web-app/pom.xml" />
     </list>
     <ignored path="jenkins-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +19,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383041719969" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383047633770" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382972079023" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -158,7 +146,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="14" selection-start="272" selection-end="272" vertical-scroll-proportion="0.31380752">
+            <state line="9" column="5" selection-start="149" selection-end="149" vertical-scroll-proportion="0.18828452">
               <folding />
             </state>
           </provider>
@@ -167,19 +155,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+            <state line="23" column="7" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonIT.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -187,7 +164,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="13" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0">
+            <state line="10" column="4" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -196,7 +173,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="35" selection-start="2465" selection-end="2465" vertical-scroll-proportion="0.0">
+            <state line="13" column="43" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -232,10 +209,10 @@
         <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/demo-php-file/pom.xml" />
         <option value="$PROJECT_DIR$/pom_orig.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-integration-test/pom.xml" />
         <option value="$PROJECT_DIR$/demo-php-files-mvn/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-integration-test/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
       </list>
     </option>
   </component>
@@ -1319,7 +1296,11 @@
       <created>1383041723119</created>
       <updated>1383041723120</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="new test, MANIFEST INCLUDED">
+      <created>1383047636785</created>
+      <updated>1383047636785</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1525,20 +1506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="35" selection-start="2465" selection-end="2465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/src/main/java/bogus/BogusCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="21" selection-start="203" selection-end="203" vertical-scroll-proportion="0.23775215">
@@ -1555,23 +1522,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state line="7" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.08522727">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="43" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-php-files-mvn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0">
+        <state line="10" column="4" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="14" selection-start="272" selection-end="272" vertical-scroll-proportion="0.31380752">
+        <state line="9" column="5" selection-start="149" selection-end="149" vertical-scroll-proportion="0.18828452">
           <folding />
         </state>
       </provider>

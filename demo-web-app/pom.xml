@@ -1,14 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
-    <!--
-     <parent>
-       <groupId>jenkins-app</groupId>
-       <artifactId>project</artifactId>
-       <version>1.0.1</version>
-     </parent>
-     -->
-
 
    <parent>
        <groupId>ziggo</groupId>
@@ -36,42 +28,14 @@
         <sonar.jdbc.driver>org.apache.derby.jdbc.ClientDriver</sonar.jdbc.driver>
         <sonar.jdbc.username>sonar</sonar.jdbc.username>
         <sonar.jdbc.password>sonar</sonar.jdbc.password>
-      </properties>-->
+      </properties>
+-->
+
     </profile>
   </profiles>
 
   <build>
     <finalName>demo-web-app</finalName>
-
-    <!--    <plugins>
-          <plugin>
-            <groupId>org.mortbay.jetty</groupId>
-            <artifactId>jetty-maven-plugin</artifactId>
-            <version>8.1.10.v20130312</version>
-            <configuration>
-              <stopPort>4321</stopPort>
-              <stopKey>stopsleutel</stopKey>
-              <waitForChild>true</waitForChild>
-              <contextPath>/</contextPath>
-            </configuration>
-            <executions>
-              <execution>
-                <id>start-jetty</id>
-                <phase>pre-integration-test</phase>
-                <goals>
-                  <goal>run-forked</goal>
-                </goals>
-              </execution>
-              <execution>
-                <id>stop-jetty</id>
-                <phase>post-integration-test</phase>
-                <goals>
-                  <goal>stop</goal>
-                </goals>
-              </execution>
-            </executions>
-          </plugin>
-        </plugins> -->
   </build>
 
   <dependencies>
