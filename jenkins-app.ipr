@@ -71,6 +71,7 @@
         <processorPath useClasspath="true" />
         <module name="demo-integration-test" />
         <module name="demo-php-file" />
+        <module name="demo-php-files-mvn" />
         <module name="demo-web-app" />
       </profile>
     </annotationProcessing>
