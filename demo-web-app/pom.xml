@@ -35,7 +35,16 @@
   </profiles>
 
   <build>
-    <finalName>demo-web-app</finalName>
+
+  <finalName>demo-web-app</finalName>
+
+<!-- MAC: during build, copy the scripts also to the target directory! -->
+  <resources>
+      <resource>
+          <directory>src/main/scripts</directory>
+      </resource>
+  </resources>
+
   </build>
 
   <dependencies>

@@ -38,6 +38,9 @@
     </repositories>
 
     <build>
+
+
+
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -49,6 +52,7 @@
                 </configuration>
             </plugin>
 
+           <!--  MAC: in case you would like to package sources in a .jar as well.
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
@@ -61,6 +65,7 @@
                     </execution>
                 </executions>
             </plugin>
+            -->
 
         </plugins>
     </build>
