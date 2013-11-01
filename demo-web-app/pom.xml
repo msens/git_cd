@@ -42,6 +42,7 @@
   <resources>
       <resource>
           <directory>src/main/scripts</directory>
+          <targetPath>scripts</targetPath>
       </resource>
   </resources>
 
