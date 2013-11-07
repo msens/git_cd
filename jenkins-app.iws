@@ -4,11 +4,12 @@
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java" afterPath="$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-integration-test/pom.xml" afterPath="$PROJECT_DIR$/demo-integration-test/pom.xml" />
     </list>
     <ignored path="jenkins-app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Demo.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368043641613" ignored="false" />
-    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383836688511" ignored="false" />
+    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383837970701" ignored="false" />
     <file path="/Address.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368042496964" ignored="false" />
     <file path="/fragment.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381323940476" ignored="false" />
     <file path="/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381333072288" ignored="false" />
@@ -16,8 +17,8 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383836464364" ignored="false" />
-    <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838094339" ignored="false" />
+    <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838044008" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382972079023" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
     <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383312589883" ignored="false" />
@@ -75,7 +76,9 @@
     <file path="/08-insert-row8-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424557270" ignored="false" />
     <file path="/09-insert-row9.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452523699" ignored="false" />
     <file path="/09-insert-row9-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452544094" ignored="false" />
-    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383836607346" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838093663" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/src/test/java/demo/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838075155" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383837970701" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,16 +156,7 @@
       <file leaf-file-name="PersonIT.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="79" selection-start="647" selection-end="647" vertical-scroll-proportion="0.30279502">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="3" selection-start="3221" selection-end="3221" vertical-scroll-proportion="-13.64">
+            <state line="17" column="24" selection-start="736" selection-end="736" vertical-scroll-proportion="0.3196347">
               <folding />
             </state>
           </provider>
@@ -1407,7 +1401,11 @@
       <created>1383836466743</created>
       <updated>1383836466743</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="new test, MANIFEST INCLUDED">
+      <created>1383836724992</created>
+      <updated>1383836724992</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1454,7 +1452,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2386781" sideWeight="0.8272947" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28518972" sideWeight="0.8272947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24908201" sideWeight="0.8272947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32534248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33019978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1642,13 +1640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/pom_ORIG.xmlORIG">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="42" selection-start="0" selection-end="3402" vertical-scroll-proportion="0.6237006">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/demo-integration-test.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1658,14 +1649,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="3" selection-start="3221" selection-end="3221" vertical-scroll-proportion="-13.64">
+        <state line="74" column="62" selection-start="3076" selection-end="3076" vertical-scroll-proportion="0.5266559">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/src/test/java/demo/PersonIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="79" selection-start="647" selection-end="647" vertical-scroll-proportion="0.30279502">
+        <state line="17" column="24" selection-start="736" selection-end="736" vertical-scroll-proportion="0.3196347">
           <folding />
         </state>
       </provider>

@@ -62,9 +62,8 @@
             </plugin>
 
             <plugin>
-                <!-- Jetty >8 requires ASM 4 while Lombok and Jersey require 3.1
-                     Therefor use Tomcat
-                -->
+                <!-- Jetty >8 requires ASM 4 while Lombok and Jersey require 3.1. Therefor use Tomcat -->
+                <!-- Ziggo: note .. port and context root (path) need to be equal to url in testPersonService class-->
                 <groupId>org.apache.tomcat.maven</groupId>
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.1</version>
