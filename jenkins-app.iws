@@ -8,7 +8,7 @@
     <ignored path="jenkins-app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Demo.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368043641613" ignored="false" />
-    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835440329" ignored="false" />
+    <file path="/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383836204341" ignored="false" />
     <file path="/Address.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1368042496964" ignored="false" />
     <file path="/fragment.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381323940476" ignored="false" />
     <file path="/web.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381333072288" ignored="false" />
@@ -16,7 +16,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835526301" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835707650" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382972079023" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -75,7 +75,7 @@
     <file path="/08-insert-row8-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424557270" ignored="false" />
     <file path="/09-insert-row9.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452523699" ignored="false" />
     <file path="/09-insert-row9-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452544094" ignored="false" />
-    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835544362" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383836413460" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,19 +159,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom_ORIG.xmlORIG" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-integration-test/pom_ORIG.xmlORIG">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="42" selection-start="0" selection-end="3402" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="10" selection-start="4259" selection-end="4259" vertical-scroll-proportion="3.6842105">
+            <state line="72" column="30" selection-start="2835" selection-end="2835" vertical-scroll-proportion="0.3085622">
               <folding />
             </state>
           </provider>
@@ -1404,7 +1395,11 @@
       <created>1383835537843</created>
       <updated>1383835537843</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="new test, MANIFEST INCLUDED">
+      <created>1383835712187</created>
+      <updated>1383835712187</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1434,12 +1429,12 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36956522" sideWeight="0.99082005" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17270531" sideWeight="0.99082005" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19951041" sideWeight="0.67202145" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36956522" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17270531" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32797858" sideWeight="0.4996587" order="10" side_tool="false" content_ui="tabs" />
@@ -1448,10 +1443,10 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3496034" sideWeight="0.26439482" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07520564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34962872" sideWeight="0.26439482" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2386781" sideWeight="0.6304348" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2386781" sideWeight="0.8272947" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28518972" sideWeight="0.6304348" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28518972" sideWeight="0.8272947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32534248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33019978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1639,6 +1634,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-integration-test/pom_ORIG.xmlORIG">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="42" selection-start="0" selection-end="3402" vertical-scroll-proportion="0.6237006">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/demo-integration-test.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1653,16 +1655,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-integration-test/pom_ORIG.xmlORIG">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="42" selection-start="0" selection-end="3402" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="10" selection-start="4259" selection-end="4259" vertical-scroll-proportion="3.6842105">
+        <state line="72" column="30" selection-start="2835" selection-end="2835" vertical-scroll-proportion="0.3085622">
           <folding />
         </state>
       </provider>

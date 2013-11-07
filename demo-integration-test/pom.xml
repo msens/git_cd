@@ -70,7 +70,7 @@
                 <version>2.1</version>
                 <configuration>
                     <ignorePackaging>true</ignorePackaging>
-                    <port>1234</port>
+                    <port>9090</port>
                     <path>/</path>
                     <warDirectory>${project.build.directory}/unpack</warDirectory>
                 </configuration>
