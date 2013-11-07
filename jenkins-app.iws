@@ -16,7 +16,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1381912813843" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835333433" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835526301" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380553028967" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382972079023" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -75,7 +75,7 @@
     <file path="/08-insert-row8-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424557270" ignored="false" />
     <file path="/09-insert-row9.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452523699" ignored="false" />
     <file path="/09-insert-row9-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382452544094" ignored="false" />
-    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835511425" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383835544362" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,7 @@
       <file leaf-file-name="pom_ORIG.xmlORIG" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-integration-test/pom_ORIG.xmlORIG">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="35" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+            <state line="20" column="42" selection-start="0" selection-end="3402" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -171,7 +171,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="34" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.07017544">
+            <state line="112" column="10" selection-start="4259" selection-end="4259" vertical-scroll-proportion="3.6842105">
               <folding />
             </state>
           </provider>
@@ -1400,7 +1400,11 @@
       <created>1383833188891</created>
       <updated>1383833188891</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="new test, MANIFEST INCLUDED">
+      <created>1383835537843</created>
+      <updated>1383835537843</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1571,7 +1575,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jenkins-app.iws">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/src/main/java/bogus/BogusCode.java">
@@ -1649,14 +1655,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/pom_ORIG.xmlORIG">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+        <state line="20" column="42" selection-start="0" selection-end="3402" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-integration-test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="34" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.07017544">
+        <state line="112" column="10" selection-start="4259" selection-end="4259" vertical-scroll-proportion="3.6842105">
           <folding />
         </state>
       </provider>
