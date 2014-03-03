@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -18,11 +16,11 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384933938295" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393406268987" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413229839" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838044008" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384349518182" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
-    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393406238833" ignored="false" />
+    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393840726206" ignored="false" />
     <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384343907915" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
@@ -77,7 +75,7 @@
     <file path="/08-insert-row8-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424557270" ignored="false" />
     <file path="/09-insert-row9.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413077969" ignored="false" />
     <file path="/09-insert-row9-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413128528" ignored="false" />
-    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413197954" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393840726374" ignored="false" />
     <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/src/test/java/demo/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838075155" ignored="false" />
     <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383837970701" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-cms7-project/22.2/hippo-cms7-project-22.2.pom" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384265729135" ignored="false" />
@@ -148,7 +146,26 @@
     <favorites_list name="jenkins-app" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="17" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04573171">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-remove-a-row10.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -178,10 +195,10 @@
         <option value="$PROJECT_DIR$/sonar-project.properties" />
         <option value="db-console:/jenkins-app78eef0a2/3d317c41-9fec-466f-9353-d0014b4e374b/" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -245,7 +262,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="972" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -370,7 +387,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1283,7 +1352,11 @@
       <created>1393406273827</created>
       <updated>1393406273827</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Added insert statement for Mysql database and one remove statement">
+      <created>1393413236485</created>
+      <updated>1393413236485</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1307,17 +1380,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="972" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="971" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1499388" sideWeight="0.83215964" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1499388" sideWeight="0.8319624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16784038" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16803761" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32797858" sideWeight="0.4996587" order="10" side_tool="false" content_ui="tabs" />
@@ -1329,7 +1402,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15353371" sideWeight="0.76086956" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24908201" sideWeight="0.83215964" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24908201" sideWeight="0.8319624" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32534248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33019978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1382,7 +1455,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated doc root page to welcome stater" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added insert statement for Mysql database and one remove statement" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1399,6 +1472,7 @@
     <MESSAGE value="new test, MANIFEST INCLUDED" />
     <MESSAGE value="updated readme to include it can be used for demo purposes" />
     <MESSAGE value="updated doc root page to welcome stater" />
+    <MESSAGE value="Added insert statement for Mysql database and one remove statement" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1461,13 +1535,6 @@
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/08-insert-row8.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="30" selection-end="30" vertical-scroll-proportion="0.04731861">
           <folding />
         </state>
       </provider>
@@ -1542,16 +1609,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="73" selection-end="73" vertical-scroll-proportion="0.04405286">
+        <state line="0" column="14" selection-start="0" selection-end="64" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/09-insert-row9-rollback.sql">
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/scripts/10-remove-a-row10.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="0" selection-end="64" vertical-scroll-proportion="0.0">
+        <state line="2" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04573171">
           <folding />
         </state>
       </provider>
