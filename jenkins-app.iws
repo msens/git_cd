@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -16,7 +15,7 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384933938295" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393840752580" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393947394436" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838044008" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384349518182" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
@@ -75,7 +74,7 @@
     <file path="/08-insert-row8-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382424557270" ignored="false" />
     <file path="/09-insert-row9.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413077969" ignored="false" />
     <file path="/09-insert-row9-rollback.sql" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393413128528" ignored="false" />
-    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393947341159" ignored="false" />
+    <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/jenkins-app.iws" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1393947419153" ignored="false" />
     <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/src/test/java/demo/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838075155" ignored="false" />
     <file path="$PROJECT_DIR$/../git_ziggo_cd/ziggo-continuous-delivery/demo-integration-test/pom.xml" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383837970701" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/org/onehippo/cms7/hippo-cms7-project/22.2/hippo-cms7-project-22.2.pom" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384265729135" ignored="false" />
@@ -150,7 +149,7 @@
       <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.115207374">
+            <state line="5" column="62" selection-start="55" selection-end="55" vertical-scroll-proportion="0.115207374">
               <folding />
             </state>
           </provider>
@@ -1228,7 +1227,11 @@
       <created>1393840760053</created>
       <updated>1393840760053</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Changes home message to Hello Stater">
+      <created>1393947399276</created>
+      <updated>1393947399276</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1327,7 +1330,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes home message to Hello Michiel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes home message to Hello Stater" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1346,6 +1349,7 @@
     <MESSAGE value="updated doc root page to welcome stater" />
     <MESSAGE value="Added insert statement for Mysql database and one remove statement" />
     <MESSAGE value="Changes home message to Hello Michiel" />
+    <MESSAGE value="Changes home message to Hello Stater" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1498,7 +1502,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.115207374">
+        <state line="5" column="62" selection-start="55" selection-end="55" vertical-scroll-proportion="0.115207374">
           <folding />
         </state>
       </provider>
