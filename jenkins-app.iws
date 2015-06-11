@@ -16,11 +16,11 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384933938295" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1433757362887" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1433758469448" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838044008" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384349518182" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
-    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1433757409117" ignored="false" />
+    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1434029280778" ignored="false" />
     <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384343907915" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
@@ -179,7 +179,7 @@
       <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="27" selection-end="27" vertical-scroll-proportion="0.06535948">
+            <state line="2" column="13" selection-start="27" selection-end="27" vertical-scroll-proportion="0.114503816">
               <folding />
             </state>
           </provider>
@@ -282,7 +282,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="775" />
+    <option name="height" value="578" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1390,7 +1390,11 @@
       <created>1426173458747</created>
       <updated>1426173458747</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="updated to SVN!!">
+      <created>1433758473279</created>
+      <updated>1433758473280</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1414,20 +1418,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="775" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="578" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1499388" sideWeight="0.7801527" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1499388" sideWeight="0.6855895" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21984732" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31441048" sideWeight="0.0091799265" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32797858" sideWeight="0.4996587" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24206816" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3496034" sideWeight="0.26439482" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07520564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1435,7 +1440,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15353371" sideWeight="0.76086956" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32129744" sideWeight="0.7801527" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32129744" sideWeight="0.6855895" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32534248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33019978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1443,7 +1448,6 @@
       <window_info id="TunnelliJ" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17270531" sideWeight="0.99082005" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24206816" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1489,7 +1493,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added !!" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to SVN!!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1517,6 +1521,7 @@
     <MESSAGE value="Changes home message to Hello DNS Belgium" />
     <MESSAGE value="added row in sql table" />
     <MESSAGE value="added !!" />
+    <MESSAGE value="updated to SVN!!" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1645,7 +1650,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="27" selection-end="27" vertical-scroll-proportion="0.06535948">
+        <state line="2" column="13" selection-start="27" selection-end="27" vertical-scroll-proportion="0.114503816">
           <folding />
         </state>
       </provider>
