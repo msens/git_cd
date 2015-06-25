@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24e077d-30a8-467d-8a45-4e0e49db6ae8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" afterPath="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jenkins-app.iws" afterPath="$PROJECT_DIR$/jenkins-app.iws" />
     </list>
     <ignored path="jenkins-app.iws" />
@@ -16,11 +16,11 @@
     <file path="/PersonService.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1382367304572" ignored="false" />
     <file path="/a.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384933938295" ignored="false" />
     <file path="/PersonServiceTest.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380799210414" ignored="false" />
-    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1435235662253" ignored="false" />
+    <file path="/Dummy.txt" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1435235831738" ignored="false" />
     <file path="/PersonIT.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1383838044008" ignored="false" />
     <file path="/a.dummy" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384349518182" ignored="false" />
     <file path="/MANIFEST.MF" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380112456452" ignored="false" />
-    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1435050850832" ignored="false" />
+    <file path="/index.jsp" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1435240707965" ignored="false" />
     <file path="/sonar-project.properties" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1384343907915" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380701882589" ignored="false" />
     <file path="/FindThePostalCode.java" changelist="a24e077d-30a8-467d-8a45-4e0e49db6ae8" time="1380871779304" ignored="false" />
@@ -185,19 +185,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonService.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PersonService.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="33" selection-start="646" selection-end="646" vertical-scroll-proportion="0.53571427">
+            <state line="21" column="33" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="20" selection-end="20" vertical-scroll-proportion="-1.25">
+            <state line="2" column="14" selection-start="28" selection-end="28" vertical-scroll-proportion="0.05905512">
               <folding />
             </state>
           </provider>
@@ -234,9 +234,9 @@
         <option value="$PROJECT_DIR$/demo-web-app/pom.xml" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/10-insert-row10.sql" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/scripts/10-insert-row10-rollback.sql" />
-        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/demo-web-app/src/test/java/Junit/PersonServiceJUnitOneTest.java" />
         <option value="$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java" />
+        <option value="$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -403,6 +403,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="jenkins-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jenkins-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git_cd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1320,7 +1330,11 @@
       <created>1435235667383</created>
       <updated>1435235667383</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="fix the test!">
+      <created>1435235835691</created>
+      <updated>1435235835692</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1419,7 +1433,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="break the test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix the test!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1451,6 +1465,7 @@
     <MESSAGE value="updated to SVB!!" />
     <MESSAGE value="updated to Hello Group!!" />
     <MESSAGE value="break the test" />
+    <MESSAGE value="fix the test!" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1572,13 +1587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="20" selection-end="20" vertical-scroll-proportion="-1.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/demo/domain/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="19" selection-start="619" selection-end="619" vertical-scroll-proportion="0.33333334">
@@ -1595,7 +1603,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/java/demo/services/PersonService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="33" selection-start="646" selection-end="646" vertical-scroll-proportion="0.53571427">
+        <state line="21" column="33" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-web-app/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="28" selection-end="28" vertical-scroll-proportion="0.05905512">
           <folding />
         </state>
       </provider>
