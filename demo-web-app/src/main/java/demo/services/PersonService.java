@@ -19,7 +19,7 @@ public class PersonService {
     p.setDateOfBirth(new LocalDate(1960, 12, 12));
     Address address = new Address();
     address.setNumber(12);
-    address.setPostalCode("1234wq!");
+    address.setPostalCode("1234wq");
     address.setStreetName("High street");
     p.setAddress(address);
     return p;
